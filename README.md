@@ -9,4 +9,8 @@ Given a tweet object, return a direct link to that tweet, because for some reaso
 
 ### EXAMPLE
 
-### API
+var getLink = require('get-tweet-link')
+getLink(tweet)
+// wow!
+
+This module was designed for use with [ttezel/twit](https://github.com/ttezel/twit) but will accept any object that satisfies [this interface](https://github.com/coleww/get-tweet-link/blob/master/test.js#L6-L11)
