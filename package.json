@@ -12,5 +12,18 @@
   },
   "license": "MIT",
   "description": "given a tweet-like object, return a permalink to that tweet",
-  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
+  "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coleww/get-tweet-link.git"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/coleww/get-tweet-link/issues"
+  },
+  "homepage": "https://github.com/coleww/get-tweet-link#readme"
 }
