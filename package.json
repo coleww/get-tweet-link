@@ -11,6 +11,6 @@
     "standard": "4.5.4"
   },
   "license": "MIT",
-  "description": "get-tweet-link ----------------",
+  "description": "given a tweet-like object, return a permalink to that tweet",
   "author": "Cole Willsea <coleww@gmail.com> (http://colewillsea.com/)"
 }
